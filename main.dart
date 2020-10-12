@@ -39,8 +39,6 @@ print('Faça seu pedido 😊');
 
   var optionClient = stdin.readLineSync();
   
-  leveaOrNot();
-
   if(optionClient == 'sim' || optionClient == 'Sim') {
     main();
   }
