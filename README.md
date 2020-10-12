@@ -1,6 +1,6 @@
 # 🍩 Cookie-Shop
 
-Um simple script, desenvolvido em dart.
+Um simples script, desenvolvido em dart.
 
 Meu primeiro código em dart.
 
