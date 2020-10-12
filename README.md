@@ -27,4 +27,4 @@ Testando algumas possibilidades, ele funciona no terminal.
   <img src="https://github.com/KelvinLopes/Cookie-Shop-/blob/master/screenshots/Screenshot%202020-10-12%20at%2018.03.15.png"      width="400" heigth="400" align="center" alt="Cookie-Shop"/>
  </p>
 
-Open in:  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/KelvinLopes/Cookie-Shop-/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/KelvinLopes/Cookie-Shop-/)
